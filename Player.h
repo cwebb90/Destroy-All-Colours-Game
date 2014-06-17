@@ -1,7 +1,7 @@
 /*Christopher Webb
 Project PRJ254
 Destroy All Colours Version 1
-Player.h*/
+Player.h */
 
 #pragma once
 #include <iostream>
